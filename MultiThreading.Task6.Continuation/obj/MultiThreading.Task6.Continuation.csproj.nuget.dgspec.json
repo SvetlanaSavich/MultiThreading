@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.NET\\01.multithreading\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj": {}
+    "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj": {}
   },
   "projects": {
-    "C:\\.NET\\01.multithreading\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj": {
+    "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.NET\\01.multithreading\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
+        "projectUniqueName": "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
         "projectName": "MultiThreading.Task6.Continuation",
-        "projectPath": "C:\\.NET\\01.multithreading\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
+        "projectPath": "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
         "packagesPath": "C:\\Users\\Svetlana_Savich\\.nuget\\packages\\",
-        "outputPath": "C:\\.NET\\01.multithreading\\MultiThreading.Task6.Continuation\\obj\\",
+        "outputPath": "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task6.Continuation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Svetlana_Savich\\AppData\\Roaming\\NuGet\\NuGet.Config",

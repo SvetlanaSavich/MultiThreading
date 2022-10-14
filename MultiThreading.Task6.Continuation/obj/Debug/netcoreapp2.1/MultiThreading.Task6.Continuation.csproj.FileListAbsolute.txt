@@ -21,3 +21,16 @@ C:\.NET\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp
 C:\.NET\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.dll
 C:\.NET\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.pdb
 C:\.NET\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.genruntimeconfig.cache
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.deps.json
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.runtimeconfig.json
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.runtimeconfig.dev.json
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.dll
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.pdb
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.csproj.AssemblyReference.cache
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.AssemblyInfoInputs.cache
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.AssemblyInfo.cs
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.csproj.CoreCompileInputs.cache
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.dll
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.pdb
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.genruntimeconfig.cache

@@ -16,7 +16,7 @@ namespace MultiThreading.Task4.Threads.Join
 {
     public static class Program
     {
-        private static SemaphoreSlim semaphoreSlim = new SemaphoreSlim(10);
+        private static SemaphoreSlim semaphoreSlim = new SemaphoreSlim(1);
 
         static void Main(string[] args)
         {
@@ -61,6 +61,8 @@ namespace MultiThreading.Task4.Threads.Join
             Console.WriteLine(((State)state).Counter);
 
             ThreadPool.QueueUserWorkItem(new WaitCallback(RunThreadInThreadPool), state);
+
+            semaphoreSlim.Release();
         }
     }
 }

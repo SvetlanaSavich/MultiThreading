@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.NET\\01.multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj": {}
+    "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj": {}
   },
   "projects": {
-    "C:\\.NET\\01.multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj": {
+    "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.NET\\01.multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
+        "projectUniqueName": "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
         "projectName": "MultiThreading.Task4.Threads.Join",
-        "projectPath": "C:\\.NET\\01.multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
+        "projectPath": "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
         "packagesPath": "C:\\Users\\Svetlana_Savich\\.nuget\\packages\\",
-        "outputPath": "C:\\.NET\\01.multithreading\\MultiThreading.Task4.Threads.Join\\obj\\",
+        "outputPath": "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task4.Threads.Join\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Svetlana_Savich\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.NET\\01.multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj": {}
+    "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj": {}
   },
   "projects": {
-    "C:\\.NET\\01.multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj": {
+    "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.NET\\01.multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
+        "projectUniqueName": "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
         "projectName": "MultiThreading.Task2.Chaining",
-        "projectPath": "C:\\.NET\\01.multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
+        "projectPath": "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
         "packagesPath": "C:\\Users\\Svetlana_Savich\\.nuget\\packages\\",
-        "outputPath": "C:\\.NET\\01.multithreading\\MultiThreading.Task2.Chaining\\obj\\",
+        "outputPath": "C:\\Users\\Svetlana_Savich\\Source\\Repos\\MultiThreading\\MultiThreading.Task2.Chaining\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Svetlana_Savich\\AppData\\Roaming\\NuGet\\NuGet.Config",

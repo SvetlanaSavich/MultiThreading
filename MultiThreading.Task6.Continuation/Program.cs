@@ -21,34 +21,14 @@ namespace MultiThreading.Task6.Continuation
             Task.Run(() => ParentTaskJob(true)).ContinueWith(t => ContinuationTask(t.Exception), TaskContinuationOptions.None).Wait();
 
             //Task b
-            Task.Run(() => ParentTaskJob(true)).ContinueWith(t => ContinuationTask(t.Exception), TaskContinuationOptions.OnlyOnFaulted).Wait();
+            Task.Run(() => ParentTaskJob(true)).ContinueWith(t => ContinuationTask(t.Exception), TaskContinuationOptions.NotOnRanToCompletion).Wait();
 
+            
             //Task c
             Task.Run(() => ParentTaskJob(true)).ContinueWith(t => ContinuationTask(t.Exception), TaskContinuationOptions.OnlyOnFaulted | TaskContinuationOptions.ExecuteSynchronously).Wait();
 
             //Task d 
-            var task = Task.Run(() => ParentTaskJob(false)); // without exception
-            try
-            {
-                task.Wait();
-                ContinuationTask();
-            }
-            catch
-            {
-                ContinuationTask(task.Exception);
-            }
-
-            task = Task.Run(() => ParentTaskJob(true)); // with exception 
-            try
-            {
-                task.Wait();
-                ContinuationTask();
-            }
-            catch
-            {
-                ContinuationTask(task.Exception);
-            }
-
+            Task.Run(() => ParentTaskJob(false)).ContinueWith(t => ContinuationTask(t.Exception), TaskContinuationOptions.LongRunning).Wait();
 
             Console.ReadLine();
         }
@@ -58,14 +38,14 @@ namespace MultiThreading.Task6.Continuation
             Console.WriteLine("Parent Task has been started");
             Console.WriteLine($"Parent Task Thread: {Thread.CurrentThread.ManagedThreadId}");
 
-            if (!isFailed)
-            {
-                Console.WriteLine("Parent Task has been completed without exception.");
-            }
-            else
+            if (isFailed)
             {
                 Console.WriteLine("Parent Task has been completed with an exception.");
                 throw new ArgumentException("Exception has been thrown in parent task");
+            }
+            else
+            {
+                Console.WriteLine("Parent Task has been completed without exception.");
             }
         }
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CNxWJzRIxdho+6LfgZdlCRLYEqV4U+a5Bp0i1plq6Wb/ROjhnbpuizEdwLwweW4j26+qQSP2M1iA57m4pXO8EQ==",
+  "dgSpecHash": "0pqsxALZR+m9CCwz4D+9oiFSDEsrjZlecjI2kQ86AyyVrV4B5Jr1lyITX1+5ukn/oR8Yng9PtLiJ1gtrPcYx/A==",
   "success": true,
-  "projectFilePath": "C:\\.NET\\01.multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
+  "projectFilePath": "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Svetlana_Savich\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Svetlana_Savich\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

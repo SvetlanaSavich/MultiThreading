@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.NET\\01.multithreading\\MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj": {}
+    "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj": {}
   },
   "projects": {
-    "C:\\.NET\\01.multithreading\\MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj": {
+    "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.NET\\01.multithreading\\MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj",
+        "projectUniqueName": "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj",
         "projectName": "MultiThreading.Task3.MatrixMultiplier",
-        "projectPath": "C:\\.NET\\01.multithreading\\MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj",
+        "projectPath": "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj",
         "packagesPath": "C:\\Users\\Svetlana_Savich\\.nuget\\packages\\",
-        "outputPath": "C:\\.NET\\01.multithreading\\MultiThreading.Task3.Matrixes\\obj\\",
+        "outputPath": "C:\\Users\\Svetlana_Savich\\Source\\Repos\\MultiThreading\\MultiThreading.Task3.Matrixes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Svetlana_Savich\\AppData\\Roaming\\NuGet\\NuGet.Config",

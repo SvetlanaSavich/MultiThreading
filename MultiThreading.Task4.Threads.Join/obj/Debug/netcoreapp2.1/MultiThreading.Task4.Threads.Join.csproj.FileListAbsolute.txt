@@ -22,3 +22,16 @@ C:\.NET\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp
 C:\.NET\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
 C:\.NET\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
 C:\.NET\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.genruntimeconfig.cache
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.deps.json
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.runtimeconfig.json
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.runtimeconfig.dev.json
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.csproj.AssemblyReference.cache
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.AssemblyInfoInputs.cache
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.AssemblyInfo.cs
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.csproj.CoreCompileInputs.cache
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
+C:\Users\Svetlana_Savich\Source\Repos\MultiThreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.genruntimeconfig.cache

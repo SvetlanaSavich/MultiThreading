@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mPG7A71/7jG7vlY42zyTWgHGbAVro4evqSsIwnar3iFW1FGEyvb+WHE+0RqNoNr2zUFxpkZsYgXLx/gFBKU/GQ==",
+  "dgSpecHash": "m/7ZoSgLgMeFXPWslIwbiCx7svQkWV3LycmVj79s+VFDqL7MI04LoH58HL9IHZY9i7rXBDSv0c49u0iZObSKxA==",
   "success": true,
-  "projectFilePath": "C:\\.NET\\01.multithreading\\MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Svetlana_Savich\\source\\repos\\MultiThreading\\MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Svetlana_Savich\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\Svetlana_Savich\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

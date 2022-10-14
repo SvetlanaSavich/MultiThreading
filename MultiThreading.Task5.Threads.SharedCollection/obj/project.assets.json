@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\.NET\\01.multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
+      "projectUniqueName": "C:\\Users\\Svetlana_Savich\\Source\\Repos\\MultiThreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
       "projectName": "MultiThreading.Task5.Threads.SharedCollection",
-      "projectPath": "C:\\.NET\\01.multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
+      "projectPath": "C:\\Users\\Svetlana_Savich\\Source\\Repos\\MultiThreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
       "packagesPath": "C:\\Users\\Svetlana_Savich\\.nuget\\packages\\",
-      "outputPath": "C:\\.NET\\01.multithreading\\MultiThreading.Task5.Threads.SharedCollection\\obj\\",
+      "outputPath": "C:\\Users\\Svetlana_Savich\\Source\\Repos\\MultiThreading\\MultiThreading.Task5.Threads.SharedCollection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Svetlana_Savich\\AppData\\Roaming\\NuGet\\NuGet.Config",
